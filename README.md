@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasSKokholm, living in 🇩🇰 inside 🇪🇺 on 🌍 floating around in the 🌌
 - 👀 I’m interested in 🖥️🐧💻Computer programming⌨️👨‍💻
-- 🌱 I’m currently learning Xamarin Forms, to make 📱Mobile apps eg. for Android📱
+- 🌱 I’m currently learning setting up Webshops with WordPress+WooCommerce (~~Xamarin Forms, to make 📱Mobile apps eg. for Android📱~~)
 ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... search and thou shall find
